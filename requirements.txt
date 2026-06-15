@@ -1,0 +1,8 @@
+customtkinter
+pyserial
+sqlalchemy
+reportlab
+pillow
+# optional transports
+# websockets   # Wi-Fi WebSocket variant
+# bleak        # BLE link (mobile / cable-free)
