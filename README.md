@@ -4,7 +4,7 @@
 
 ## About the Project
 
-| ![Timegrapher OS](https://github.com/fabemit/Timegrapher_OS/blob/main/images/Timegrapher_OS.png) |
+| ![Timegrapher OS](https://github.com/thisoldscot/Timegrapher_OS/blob/main/images/Timegrapher_OS.png) |
 | :-----------------------------------------------------------------------------------------------: |
 
 Timegrapher OS is the desktop application for the Timegrapher Studio wristwatch
@@ -41,7 +41,7 @@ hardware-link registry, a CustomTkinter front-end, and a SQLite historian. See
 ### Installation
 
 ```bash
-git clone https://github.com/fabemit/Timegrapher_OS.git
+git clone https://github.com/thisoldscot/Timegrapher_OS.git
 cd Timegrapher_OS
 pip install -r requirements.txt
 ```
@@ -78,13 +78,13 @@ Timegrapher Studio is split across several repositories:
 
 | Repository | Contents |
 | --- | --- |
-| [Timegrapher_OS](https://github.com/fabemit/Timegrapher_OS) | Desktop application (this repo) |
-| [Timegrapher_App](https://github.com/fabemit/Timegrapher_App) | Mobile companion app |
-| [Timegrapher_Firmware](https://github.com/fabemit/Timegrapher_Firmware) | ESP32 device firmware |
-| [Timegrapher_Hat](https://github.com/fabemit/Timegrapher_Hat) | Carrier HAT (PCB) |
-| [Timegrapher_PreAmp](https://github.com/fabemit/Timegrapher_PreAmp) | Piezo preamp (through-hole) |
-| [Timegrapher_PreAmpSMD](https://github.com/fabemit/Timegrapher_PreAmpSMD) | Piezo preamp (SMD) |
-| [Timegrapher_Stand](https://github.com/fabemit/Timegrapher_Stand) | 3D-printed stand & fixtures |
+| [Timegrapher_OS](https://github.com/thisoldscot/Timegrapher_OS) | Desktop application (this repo) |
+| [Timegrapher_App](https://github.com/thisoldscot/Timegrapher_App) | Mobile companion app |
+| [Timegrapher_Firmware](https://github.com/thisoldscot/Timegrapher_Firmware) | ESP32 device firmware |
+| [Timegrapher_Hat](https://github.com/thisoldscot/Timegrapher_Hat) | Carrier HAT (PCB) |
+| [Timegrapher_PreAmp](https://github.com/thisoldscot/Timegrapher_PreAmp) | Piezo preamp (through-hole) |
+| [Timegrapher_PreAmpSMD](https://github.com/thisoldscot/Timegrapher_PreAmpSMD) | Piezo preamp (SMD) |
+| [Timegrapher_Stand](https://github.com/thisoldscot/Timegrapher_Stand) | 3D-printed stand & fixtures |
 
 ---
 
@@ -122,7 +122,7 @@ We encourage community collaboration to make this project even better.
 
 ## About ThisOldScot
 
-<img src="https://github.com/fabemit/Timegrapher_OS/blob/main/images/ThisOldScot_Logo.png" width="200" alt="ThisOldScot logo">
+<img src="https://github.com/thisoldscot/Timegrapher_OS/blob/main/images/ThisOldScot_Logo.png" width="200" alt="ThisOldScot logo">
 
 [ThisOldScot](https://thisoldscot.com) enjoys designing and making electronic
 products and projects for enthusiasts, from hobbyists to professionals — boards,
